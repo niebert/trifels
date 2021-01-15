@@ -11,3 +11,6 @@ Folgende Pakete wurden für die Erstellung verwendet:
 Das Repository enthält die folgenden 3D-Modelle:
 * [Candles for Torus - Aframe](https://niebert.github.io/trifels/models/candles4torus_aframe.html)
 * Modell 2
+
+## Wikiversity 3D-Modellierung
+Weitere [Hinweise zur 3D-Modellierung finden Sie auf Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
