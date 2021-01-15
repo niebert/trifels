@@ -8,12 +8,12 @@ Folgende Pakete wurden für die Erstellung verwendet:
 * [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe)
 
 Die Modelle in diesem Repository wurden von
-* Frau Liane Maldener 
+* Frau Lisanne Maldener 
 * Frau Sophie Kehrer 
 erstellt. 
 
 ## 3D Modelle
-Das Repository enthält die folgenden 3D-Modelle:
+Das Repository enthält in dem Unterordner `models/` die folgenden 3D-Modelle:
 * [Candles for Torus - Aframe](https://niebert.github.io/trifels/models/candles4torus_aframe.html)
 * Modell 2
 
