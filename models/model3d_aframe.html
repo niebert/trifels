@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A-Frame - Model 3D </title>
+    <meta name="description" content="A-Frame Model 3D">
+    <meta name="createdwith" content="https://niebert.githhub.io/JSON3D4Aframe">
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <!-- Comment for a-box: Turm  -->
+      <a-box position="0.40 1.00 0.00" material="color: #8e4c1a;opacity:0.5" rotation="0 0 0"  width="0.80" height="2.00" depth="0.80" ></a-box>
+         <!-- Comment for a-box: Haus -->
+      <a-box position="1.60 0.60 0.00" material="color: #934c1a;opacity:0.5" rotation="0 0 0"  width="1.60" height="1.20" depth="1.20" ></a-box>
+         <!-- Comment for a-triangle: Dach 1 -->
+      <a-triangle position="0.80 1.20 0.60" material="color: #934c1a;opacity:0.5" rotation="-45 0 0"  vertex-a="0 0 0" vertex-b="1.60 0 0" vertex-c="0.80 0.85 0" ></a-triangle>
+         <!-- Comment for a-triangle: Dach 2 -->
+      <a-triangle position="0.80 1.20 -0.60" material="color: #934c1a;opacity:0.5" rotation="45 0 0"  vertex-a="0 0 0" vertex-b="1.60 0 0" vertex-c="0.80 0.85 0" ></a-triangle>
+         <!-- Comment for a-triangle: Dach 3 -->
+      <a-triangle position="0.80 1.20 0.60" material="color: #934c1a;opacity:0.5" rotation="53 90 0"  vertex-a="0 0 0" vertex-b="1.20 0 0" vertex-c="0.60 1.00 0" ></a-triangle>
+         <!-- Comment for a-triangle: Dach 4 -->
+      <a-triangle position="2.40 1.20 0.60" material="color: #934c1a;opacity:0.5" rotation="-53 90 0"  vertex-a="0 0 0" vertex-b="1.20 0 0" vertex-c="0.60 1.00 0" ></a-triangle>
+   
+
+      <a-sky color="#ECECEC"></a-sky>
+    
+    <a-entity id="myCameraPosition" position="0 2 4">
+        <a-entity id="myCamera" camera look-controls look-controls wasd-controls keyboard-controls>
+        </a-entity>
+    </a-entity>
+  
+    </a-scene>
+  </body>
+</html>
+    
