@@ -16,9 +16,12 @@ erstellt.
 Das Repository enthält in dem Unterordner `models/` die folgenden 3D-Modelle:
 * [Candles for Torus - Aframe](https://niebert.github.io/trifels/models/candles4torus_aframe.html)
 * [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html)
+Modelle in AFrame können Sie im Browser darstellen (wie z.B. [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html) ). Mit **Strg-Alt-I** können Sie einzelne Elemente verschieben und anderes positionieren.
 
 ## Wikiversity 3D-Modellierung
 Weitere [Hinweise zur 3D-Modellierung finden Sie auf Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
 
 ## Navigation in 360-Grad-Panoramen
 Die Navigation in 360-Grad-Panoramabilder kann in AFrame abgebildet werden. Betrachten Sie dazu das [Aframe-Demo mit 360-Gradbilder vom Rhein bei Rodenkirchen](https://niebert.github.io/aframe360navigation). Dazu werden die 360-Gradbilder in Aframe eingebettet und man kann an [4 verschiedene Stellen am Rhein](https://niebert.github.io/aframe360navigation) wechseln. 3D-Objekte können in das 360-Gradbild integriert werden. Ein solches Beispiel finden Sie in den Beispielen zu [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe) 
+
+
