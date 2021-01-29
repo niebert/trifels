@@ -16,6 +16,7 @@ erstellt.
 Das Repository enthält in dem Unterordner `models/` die folgenden 3D-Modelle:
 * [Candles for Torus - Aframe](https://niebert.github.io/trifels/models/candles4torus_aframe.html)
 * [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html)
+* [Trifels Version 2 Hauptgebäude](https://niebert.github.io/trifels/models/trifels_version_2_hauptgebude_aframe.html)
 
 Modelle in AFrame können Sie im Browser darstellen (wie z.B. [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html) ). Mit **[Strg]-[Alt]-[I]** können Sie einzelne Elemente verschieben und anderes positionieren.
 
