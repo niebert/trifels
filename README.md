@@ -18,7 +18,9 @@ Das Repository enthält in dem Unterordner `models/` die folgenden 3D-Modelle:
 * [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html)
 * [Trifels Version 2 Hauptgebäude](https://niebert.github.io/trifels/models/trifels_version_2_hauptgebude_aframe.html)
 * [Trifelsbogen Version 1](https://niebert.github.io/trifels/models/trifelsbogen_aframe.html)
-* [Kastellanhaus](https://niebert.github.io/trifels/models/kastellanhaus_gps_argeo.html)
+* [Kastellanhaus mit Geolocation am Trifels](https://niebert.github.io/trifels/models/kastellanhaus_gps_argeo.html)
+* [Hauptturm und das Palas mit Geolocation am Trifels](https://niebert.github.io/trifels/models/hauptturm_und_palas_argeo.html)
+* [Brunnenturm und Rundbogenbrücke mit Geolocation am Trifels](https://niebert.github.io/trifels/models/brunnenturm_und_rundbogenbrcke_argeo.html)
 
 
 Modelle in AFrame können Sie im Browser darstellen (wie z.B. [Trifels Version 1](https://niebert.github.io/trifels/models/Trifels_1_aframe.html) ). Mit **[Strg]-[Alt]-[I]** können Sie einzelne Elemente verschieben und anderes positionieren.
